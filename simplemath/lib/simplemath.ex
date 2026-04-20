@@ -1,5 +1,5 @@
 defmodule Simplemath do
-  def sqrt(a) do
+  def square(a) do
     a * a
   end
 
