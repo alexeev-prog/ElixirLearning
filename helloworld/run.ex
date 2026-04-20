@@ -1,1 +1,2 @@
 Helloworld.hello()
+Helloworld.goodbye()

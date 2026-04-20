@@ -15,4 +15,8 @@ defmodule Helloworld do
   def hello do
     IO.puts("Hello World!")
   end
+
+  def goodbye do
+    IO.puts("Goodbye World!")
+  end
 end
