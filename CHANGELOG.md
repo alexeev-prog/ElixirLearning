@@ -1,3 +1,21 @@
+commit fd6c112607d3a1cdc50ba112bd7fea8cb980ca16
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Tue Apr 21 19:27:09 2026 +0700
+
+    add 2.2 Logic in Notes
+
+commit 5470d17f0af8529f694f6fe679376df17e9e8214
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Mon Apr 20 19:17:08 2026 +0700
+
+    fix typo in simplemath
+
+commit 37c23c316ce4ac59a89429d2dcf89edacc054544
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Mon Apr 20 18:49:11 2026 +0700
+
+    update helloworld, create simplemath
+
 commit 06942d9ee1368b64eb1568becafed77e948214a4
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Mon Apr 20 15:51:41 2026 +0700
