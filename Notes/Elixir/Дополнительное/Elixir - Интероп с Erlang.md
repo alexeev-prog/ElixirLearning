@@ -103,7 +103,5 @@ X1 = X + 10. # => 20
 ## Полезное
 
 - [Документация на timer](https://www.erlang.org/doc/man/timer.html)
-    
 - [Документация на os](https://www.erlang.org/doc/man/os.html)
-    
 - [Официальный сайт Erlang](https://www.erlang.org/)
