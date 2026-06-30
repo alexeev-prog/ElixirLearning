@@ -1,3 +1,45 @@
+commit 3b8b8a708d468baf29e86f3c696a275a4d747694
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sun Jun 28 18:00:26 2026 +0700
+
+    update
+
+commit 019dd1376c1956d7ebc52b90456c426140bfe202
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jun 12 11:14:49 2026 +0700
+
+    update notes
+
+commit 6131d29fb667c4762452d930b91eabdcc4871666
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Mon May 25 22:00:20 2026 +0700
+
+    add dicts example
+
+commit 0c2cfa37e767cd36fd96b98a5c51dc6c19c13e80
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sat May 23 21:01:34 2026 +0700
+
+    update simplemath
+
+commit 00863a506bc0147b7f3276bf76e600a7dc37831a
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Thu May 21 07:52:34 2026 +0700
+
+    update Notes, update examples
+
+commit bcde9f78d9449664df0d201f7c383fe52ed74041
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Wed May 20 18:35:24 2026 +0700
+
+    add mysigils example
+
+commit 53647114cc98fa72de4fa59d44cab12e5e83e821
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Wed May 20 18:28:30 2026 +0700
+
+    updat4
+
 commit fd6c112607d3a1cdc50ba112bd7fea8cb980ca16
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Tue Apr 21 19:27:09 2026 +0700
